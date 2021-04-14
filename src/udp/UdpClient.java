@@ -11,7 +11,7 @@ public class UdpClient {
     //服务器端端口号
     private static final int port =9090 ;
     //服务器ip
-    private  static final String ip = "106.14.185.16";
+    private  static final String ip = "111.231.10.228";
     //数据包大小
     private  static  final int bleng = 1024;
     public static void main(String[] args) throws IOException {
